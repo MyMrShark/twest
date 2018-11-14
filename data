@@ -1,0 +1,435 @@
+
+
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="pl-PL">
+
+<head>
+  
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lektury | Zespół Szkół Elektrycznych im. prof. Janusza Groszkowskiego w Białymstoku</title>
+<link rel="pingback" href="http://zse.bialystok.pl/xmlrpc.php"><link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Zespół Szkół Elektrycznych im. prof. Janusza Groszkowskiego w Białymstoku &raquo; Kanał z wpisami" href="http://zse.bialystok.pl/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Zespół Szkół Elektrycznych im. prof. Janusza Groszkowskiego w Białymstoku &raquo; Kanał z komentarzami" href="http://zse.bialystok.pl/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/zse.bialystok.pl\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='responsive-lightbox-nivo-css'  href='http://zse.bialystok.pl/wp-content/plugins/responsive-lightbox/assets/nivo/nivo-lightbox.min.css?ver=2.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-lightbox-nivo-default-css'  href='http://zse.bialystok.pl/wp-content/plugins/responsive-lightbox/assets/nivo/themes/default/default.css?ver=2.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://zse.bialystok.pl/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='x-stack-css'  href='http://zse.bialystok.pl/wp-content/themes/x/framework/dist/css/site/stacks/renew.css?ver=6.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='x-cranium-migration-css'  href='http://zse.bialystok.pl/wp-content/themes/x/framework/legacy/cranium/dist/css/site/renew.css?ver=6.2.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://zse.bialystok.pl/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://zse.bialystok.pl/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://zse.bialystok.pl/wp-content/plugins/responsive-lightbox/assets/infinitescroll/infinite-scroll.pkgd.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='http://zse.bialystok.pl/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8'></script>
+<script type='text/javascript' src='http://zse.bialystok.pl/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8'></script>
+<script type='text/javascript' src='http://zse.bialystok.pl/wp-content/plugins/cornerstone/assets/dist/js/site/cs-head.js?ver=3.2.5'></script>
+<link rel='https://api.w.org/' href='http://zse.bialystok.pl/wp-json/' />
+<link rel="canonical" href="http://zse.bialystok.pl/biblioteka/lektury/" />
+<link rel='shortlink' href='http://zse.bialystok.pl/?p=680' />
+<link rel="alternate" type="application/json+oembed" href="http://zse.bialystok.pl/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fzse.bialystok.pl%2Fbiblioteka%2Flektury%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://zse.bialystok.pl/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fzse.bialystok.pl%2Fbiblioteka%2Flektury%2F&#038;format=xml" />
+<meta property="og:site_name" content="Zespół Szkół Elektrycznych im. prof. Janusza Groszkowskiego w Białymstoku"><meta property="og:title" content="Lektury"><meta property="og:description" content="Wykaz lektur obowiązujących w Zespole Szkół Elektrycznych W związku z wejściem w życie Rozporządzenia Ministra Edukacji Narodowej z dnia 29 sierpnia 2008 r. zmieniającego rozporządzenie w sprawie podstawy programowej wychowania przedszkolnego oraz kształcenia ogólnego w&hellip;"><meta property="og:image" content=""><meta property="og:url" content="http://zse.bialystok.pl/biblioteka/lektury/"><meta property="og:type" content="article"><meta name="generator" content="Powered by Slider Revolution 5.4.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="http://zse.bialystok.pl/wp-content/uploads/2018/10/zse.png" sizes="32x32" />
+<link rel="icon" href="http://zse.bialystok.pl/wp-content/uploads/2018/10/zse.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://zse.bialystok.pl/wp-content/uploads/2018/10/zse.png" />
+<meta name="msapplication-TileImage" content="http://zse.bialystok.pl/wp-content/uploads/2018/10/zse.png" />
+<script type="text/javascript">function setREVStartSize(e){									
+						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+					};</script>
+<style id="x-generated-css">a,h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,.x-comment-time:hover,#reply-title small a,.comment-reply-link:hover,.x-comment-author a:hover,.x-recent-posts a:hover .h-recent-posts{color:#09436b;}a:hover,#reply-title small a:hover{color:rgb(12,113,176);}.entry-title:before{color:#dddddd;}a.x-img-thumbnail:hover,li.bypostauthor > article.comment{border-color:#09436b;}.flex-direction-nav a,.flex-control-nav a:hover,.flex-control-nav a.flex-active,.x-dropcap,.x-skill-bar .bar,.x-pricing-column.featured h2,.h-comments-title small,.x-pagination a:hover,.x-entry-share .x-share:hover,.entry-thumb,.widget_tag_cloud .tagcloud a:hover,.widget_product_tag_cloud .tagcloud a:hover,.x-highlight,.x-recent-posts .x-recent-posts-img:after,.x-portfolio-filters{background-color:#09436b;}.x-portfolio-filters:hover{background-color:rgb(12,113,176);}.x-main{width:68.79803%;}.x-sidebar{width:24.79803%;}.h-landmark{font-weight:300;}.x-comment-author a{color:rgb(62,62,62);}.x-comment-author a,.comment-form-author label,.comment-form-email label,.comment-form-url label,.comment-form-rating label,.comment-form-comment label,.widget_calendar #wp-calendar caption,.widget_calendar #wp-calendar th,.x-accordion-heading .x-accordion-toggle,.x-nav-tabs > li > a:hover,.x-nav-tabs > .active > a,.x-nav-tabs > .active > a:hover{color:rgb(62,62,62);}.widget_calendar #wp-calendar th{border-bottom-color:rgb(62,62,62);}.x-pagination span.current,.x-portfolio-filters-menu,.widget_tag_cloud .tagcloud a,.h-feature-headline span i,.widget_price_filter .ui-slider .ui-slider-handle{background-color:rgb(62,62,62);}@media (max-width:979px){}html{font-size:14px;}@media (min-width:480px){html{font-size:14px;}}@media (min-width:767px){html{font-size:14px;}}@media (min-width:979px){html{font-size:14px;}}@media (min-width:1200px){html{font-size:14px;}}body{font-style:normal;font-weight:300;color:rgb(62,62,62);background-color:hsl(0,0%,100%);}.w-b{font-weight:300 !important;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{font-family:"Slabo 13px",serif;font-style:normal;font-weight:400;}h1,.h1{letter-spacing:0.01em;}h2,.h2{letter-spacing:0.01em;}h3,.h3{letter-spacing:0.01em;}h4,.h4{letter-spacing:0.01em;}h5,.h5{letter-spacing:0.01em;}h6,.h6{letter-spacing:0.01em;}.w-h{font-weight:400 !important;}.x-container.width{width:88%;}.x-container.max{max-width:1200px;}.x-main.full{float:none;display:block;width:auto;}@media (max-width:979px){.x-main.full,.x-main.left,.x-main.right,.x-sidebar.left,.x-sidebar.right{float:none;display:block;width:auto !important;}}.entry-header,.entry-content{font-size:1rem;}body,input,button,select,textarea{font-family:"Roboto",sans-serif;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a,.h1 a,.h2 a,.h3 a,.h4 a,.h5 a,.h6 a,blockquote{color:rgb(62,62,62);}.cfc-h-tx{color:rgb(62,62,62) !important;}.cfc-h-bd{border-color:rgb(62,62,62) !important;}.cfc-h-bg{background-color:rgb(62,62,62) !important;}.cfc-b-tx{color:rgb(62,62,62) !important;}.cfc-b-bd{border-color:rgb(62,62,62) !important;}.cfc-b-bg{background-color:rgb(62,62,62) !important;}.x-btn,.button,[type="submit"]{color:#ffffff;border-color:rgb(9,67,107);background-color:rgb(12,113,176);margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);box-shadow:0 0.25em 0 0 rgb(9,67,107),0 4px 9px rgba(0,0,0,0.75);border-radius:0.25em;}.x-btn:hover,.button:hover,[type="submit"]:hover{color:#ffffff;border-color:rgb(12,113,176);background-color:rgb(9,67,107);margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);box-shadow:0 0.25em 0 0 rgb(12,113,176),0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-real,.x-btn.x-btn-real:hover{margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);}.x-btn.x-btn-real{box-shadow:0 0.25em 0 0 rgb(9,67,107),0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-real:hover{box-shadow:0 0.25em 0 0 rgb(12,113,176),0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-flat,.x-btn.x-btn-flat:hover{margin-bottom:0;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);box-shadow:none;}.x-btn.x-btn-transparent,.x-btn.x-btn-transparent:hover{margin-bottom:0;border-width:3px;text-shadow:none;text-transform:uppercase;background-color:transparent;box-shadow:none;}.x-topbar .p-info,.x-topbar .p-info a,.x-topbar .x-social-global a{color:#ffffff;}.x-topbar .p-info a:hover{color:rgb(0,157,255);}.x-topbar{background-color:rgb(9,67,107);}.x-navbar .desktop .x-nav > li:before{padding-top:40px;}.x-navbar .desktop .x-nav > li > a,.x-navbar .desktop .sub-menu li > a,.x-navbar .mobile .x-nav li a{color:rgb(9,67,107);}.x-navbar .desktop .x-nav > li > a:hover,.x-navbar .desktop .x-nav > .x-active > a,.x-navbar .desktop .x-nav > .current-menu-item > a,.x-navbar .desktop .sub-menu li > a:hover,.x-navbar .desktop .sub-menu li.x-active > a,.x-navbar .desktop .sub-menu li.current-menu-item > a,.x-navbar .desktop .x-nav .x-megamenu > .sub-menu > li > a,.x-navbar .mobile .x-nav li > a:hover,.x-navbar .mobile .x-nav li.x-active > a,.x-navbar .mobile .x-nav li.current-menu-item > a{color:rgb(12,113,176);}.x-btn-navbar,.x-btn-navbar:hover{color:#ffffff;}.x-navbar .desktop .sub-menu li:before,.x-navbar .desktop .sub-menu li:after{background-color:rgb(9,67,107);}.x-navbar,.x-navbar .sub-menu{background-color:hsl(0,0%,100%) !important;}.x-btn-navbar,.x-btn-navbar.collapsed:hover{background-color:rgb(12,113,176);}.x-btn-navbar.collapsed{background-color:rgb(9,67,107);}.x-navbar .desktop .x-nav > li > a:hover > span,.x-navbar .desktop .x-nav > li.x-active > a > span,.x-navbar .desktop .x-nav > li.current-menu-item > a > span{box-shadow:0 2px 0 0 rgb(12,113,176);}.x-navbar .desktop .x-nav > li > a{height:90px;padding-top:40px;}.x-navbar .desktop .x-nav > li ul{top:90px;}.x-colophon.bottom{background-color:rgb(9,67,107);}.x-colophon.bottom,.x-colophon.bottom a,.x-colophon.bottom .x-social-global a{color:#ffffff;}body.x-navbar-fixed-top-active .x-navbar-wrap{height:90px;}.x-navbar-inner{min-height:90px;}.x-brand{margin-top:16px;font-family:"Slabo 27px",serif;font-size:24px;font-style:normal;font-weight:400;letter-spacing:-0.035em;color:#09436b;}.x-brand:hover,.x-brand:focus{color:#09436b;}.x-navbar .x-nav-wrap .x-nav > li > a{font-family:"Roboto",sans-serif;font-style:normal;font-weight:300;letter-spacing:0em;text-transform:uppercase;}.x-navbar .desktop .x-nav > li > a{font-size:14px;}.x-navbar .desktop .x-nav > li > a:not(.x-btn-navbar-woocommerce){padding-left:6px;padding-right:6px;}.x-navbar .desktop .x-nav > li > a > span{margin-right:-0em;}.x-btn-navbar{margin-top:20px;}.x-btn-navbar,.x-btn-navbar.collapsed{font-size:24px;}@media (max-width:979px){body.x-navbar-fixed-top-active .x-navbar-wrap{height:auto;}.x-widgetbar{left:0;right:0;}}.x-colophon.bottom{background-color:rgb(9,67,107);}.x-colophon.bottom,.x-colophon.bottom a,.x-colophon.bottom .x-social-global a{color:#ffffff;}.x-topbar{color:#fff;padding:0px;}.x-topbar h1{font-family:"Slabo 13px",serif;color:#fff;font-size:18px;font-weight:300;margin-top:5px;margin-bottom:0;}.x-topbar .p-info{letter-spacing:0;}.x-topbar .x-social-global{display:none;}.format-standard .entry-title::before{display:none;}.x-navbar{border-bottom:1px solid #f0f0f0;}.x-colophon.top{background-image:url('http://zse.bialystok.pl/wp-content/uploads/2017/12/gplaypattern.png');}.x-header-landmark{background-image:url('http://zse.bialystok.pl/wp-content/uploads/2017/12/gplaypattern.png');border:none;padding:60px 0;}.h-landmark,.entry-title.h-landmark{letter-spacing:0.01em;}.entry-featured{border:none;padding:0;margin-top:16px;}.entry-header{border-bottom:1px solid #e8e8e8;padding-bottom:8px;}.gallery{margin-top:24px;}.gallery-item{border:none;padding:1px;}.gallery .gallery-item{margin:0;}.gallery-columns-3 .gallery-item{width:33.3%;}.x-recent-posts a{border:none;}@media (min-width:980px){.x-recent-posts a{margin:0;padding:4px 4px 0;}.x-recent-posts a.x-recent-post4{width:25%;}.x-recent-posts .format-standard .x-recent-posts-img::before{display:none;}.x-recent-posts a.x-recent-post2{width:50%;}.x-recent-posts,.x-recent-posts + .x-recent-posts{margin:0;}}.widget .post-date{color:#b0b0b0;display:block;}#youtube-box{z-index:10000;position:fixed;top:220px;right:-2px;}#facebook-box{z-index:10000;position:fixed;top:264px;right:-2px;}#youtube-box:hover,#facebook-box:hover{opacity:0.7;}.x-btn-navbar{border-radius:2px;}.x-colophon .widget ul li{background:none;}[data-x-icon],[class*="x-icon-"]{font-weight:400;}.x-pagination a,.x-pagination span{border-radius:0;color:rgb(62,62,62);}.x-pagination ul{border-radius:0;}.x-recent-posts a:hover .has-post-thumbnail .x-recent-posts-img::after{opacity:0.35;}.x-recent-posts .x-recent-posts-img{border-width:1px;border-style:solid;border-color:rgb(240,240,240);}@media screen and (max-width:960px){#youtube-box,#facebook-box{display:none;}}@media screen and (min-width:960px) and (max-width:1200px){.x-navbar .desktop .x-nav > li > a{font-size:12px;}.x-navbar .desktop .x-nav > li > a{padding-left:2px !important;padding-right:2px !important;}}</style><link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300i,700,700i|Slabo+13px:400|Slabo+27px:400&#038;subset=latin,latin-ext" type="text/css" media="all" data-x-google-fonts /></head>
+
+<body class="page-template page-template-template-layout-full-width page-template-template-layout-full-width-php page page-id-680 page-child parent-pageid-919 x-renew x-full-width-layout-active x-full-width-active x-navbar-fixed-top-active x-v6_2_5 cornerstone-v3_2_5">
+
+  <div id="x-root" class="x-root">
+
+    
+    <div id="top" class="site">
+
+    
+  
+  <header class="masthead masthead-inline" role="banner">
+    
+
+  <div class="x-topbar">
+    <div class="x-topbar-inner x-container max width">
+            <p class="p-info"><div class="x-container" style="margin-top:18px;"><div class="x-column x-sm x-1-2" style="text-transform:uppercase;"><a href="http://zse.bialystok.pl/"><h1>Zespół Szkół Elektrycznych<br>im. prof. Janusza Groszkowskiego w&nbsp;Białymstoku</h1></a></div>
+<div class="x-column x-sm x-1-2" style="text-align:right;"><i class="x-icon x-icon-phone" style="color: hsl(0, 0%, 100%);" data-x-icon="" aria-hidden="true"></i> <a href="tel:856512093" style="color:#fff !important;">(85) 651 20 93</a> <i class="x-icon x-icon-phone" style="margin-left:12px; color: hsl(0, 0%, 100%);" data-x-icon="" aria-hidden="true"></i> <a href="tel:691487379" style="color:#fff !important;">691 487 379</a><br><i  class="x-icon x-icon-o-envelope" data-x-icon-o="" aria-hidden="true" style="margin-left:12px; color: hsl(0, 0%, 100%);"></i> <a href="mailto:zse@zse.biaman.pl" style="color:#fff;">zse@zse.biaman.pl</a></div>
+</div></p>
+            <div class="x-social-global"><a href="https://www.facebook.com/zsebialystok/" class="facebook" title="Facebook" target="_blank"><i class="x-icon-facebook-square" data-x-icon-b="&#xf082;" aria-hidden="true"></i></a><a href="https://www.youtube.com/user/elektryktv" class="youtube" title="YouTube" target="_blank"><i class="x-icon-youtube-square" data-x-icon-b="&#xf431;" aria-hidden="true"></i></a></div>    </div>
+  </div>
+
+    
+
+  <div class="x-navbar-wrap">
+    <div class="x-navbar">
+      <div class="x-navbar-inner">
+        <div class="x-container max width">
+          
+<h1 class="visually-hidden">Zespół Szkół Elektrycznych im. prof. Janusza Groszkowskiego w Białymstoku</h1>
+<a href="http://zse.bialystok.pl/" class="x-brand img" title="Zespół Szkół Elektrycznychw Białymstoku - oficjalna strona szkoły">
+  <img src="http://zse.biaman.pl/2017/wp-content/uploads/2017/10/logo_zse_godlo_340-e1512377488683.png" alt="Zespół Szkół Elektrycznychw Białymstoku - oficjalna strona szkoły"></a>          
+<a href="#" id="x-btn-navbar" class="x-btn-navbar collapsed" data-x-toggle="collapse-b" data-x-toggleable="x-nav-wrap-mobile" aria-selected="false" aria-expanded="false" aria-controls="x-widgetbar">
+  <i class="x-icon-bars" data-x-icon-s="&#xf0c9;"></i>
+  <span class="visually-hidden">Navigation</span>
+</a>
+
+<nav class="x-nav-wrap desktop" role="navigation">
+  <ul id="menu-menu-glowne" class="x-nav"><li id="menu-item-1109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1109"><a href="http://zse.bialystok.pl/"><span>Strona główna</span></a></li>
+<li id="menu-item-1156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1156 tax-item tax-item-2"><a href="http://zse.bialystok.pl/category/aktualnosci/"><span>Aktualności</span></a></li>
+<li id="menu-item-1119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1119"><a href="http://zse.bialystok.pl/kalendarium/"><span>Kalendarium</span></a></li>
+<li id="menu-item-1120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1120"><a href="http://zse.bialystok.pl/o-szkole/"><span>O szkole</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1127"><a href="http://zse.bialystok.pl/o-szkole/kontakt/"><span>Kontakt</span></a></li>
+	<li id="menu-item-1124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1124"><a href="http://zse.bialystok.pl/o-szkole/dyrekcja/"><span>Dyrekcja</span></a></li>
+	<li id="menu-item-1122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1122"><a href="http://zse.bialystok.pl/o-szkole/ckp/"><span>CKP Nr 1</span></a></li>
+	<li id="menu-item-1123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1123"><a href="http://zse.bialystok.pl/o-szkole/dokumenty/"><span>Dokumenty</span></a></li>
+	<li id="menu-item-1129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1129"><a href="http://zse.bialystok.pl/o-szkole/patron/"><span>Patron</span></a></li>
+	<li id="menu-item-1125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1125"><a href="http://zse.bialystok.pl/o-szkole/hymn/"><span>Hymn</span></a></li>
+	<li id="menu-item-1130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1130"><a href="http://zse.bialystok.pl/o-szkole/rada-rodzicow/"><span>Rada Rodziców</span></a></li>
+	<li id="menu-item-1126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1126"><a href="http://zse.bialystok.pl/o-szkole/konsultacje/"><span>Konsultacje</span></a></li>
+	<li id="menu-item-1170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1170"><a href="http://zse.bialystok.pl/o-szkole/rozklad-dzwonkow/"><span>Rozkład dzwonków</span></a></li>
+</ul>
+</li>
+<li id="menu-item-1133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1133"><a href="http://zse.bialystok.pl/rekrutacja/"><span>Rekrutacja</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1866"><a href="http://zse.bialystok.pl/rekrutacja/"><span>Jasny wybór</span></a></li>
+	<li id="menu-item-1138" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1138"><a href="http://zse.bialystok.pl/rekrutacja/technikum-elekryczne/"><span>Technikum Elekryczne</span></a></li>
+	<li id="menu-item-1134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1134"><a href="http://zse.bialystok.pl/rekrutacja/branzowa-szkola-i-stopnia-nr-1/"><span>Branżowa Szkoła I Stopnia Nr 1</span></a></li>
+	<li id="menu-item-1137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1137"><a href="http://zse.bialystok.pl/rekrutacja/szkola-policealna/"><span>Szkoła Policealna</span></a></li>
+	<li id="menu-item-1136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1136"><a href="http://zse.bialystok.pl/rekrutacja/kwalifikacyjny-kurs-zawodowy/"><span>Kwalifikacyjny kurs zawodowy</span></a></li>
+</ul>
+</li>
+<li id="menu-item-1945" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1945"><a href="http://zse.bialystok.pl/uczniowie/sukcesy/"><span>Uczniowie</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1147"><a href="http://zse.bialystok.pl/uczniowie/egzaminy-zawodowe/"><span>Egzaminy zawodowe</span></a></li>
+	<li id="menu-item-1148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1148"><a href="http://zse.bialystok.pl/uczniowie/kwalifikacyjne-kursy-zawodowe/"><span>Kwalifikacyjne kursy zawodowe</span></a></li>
+	<li id="menu-item-1149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1149"><a href="http://zse.bialystok.pl/uczniowie/matura/"><span>Matura</span></a></li>
+	<li id="menu-item-1911" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1911"><a target="_blank" href="http://zse.bialystok.pl/wp-content/uploads/2018/10/niezbednik-2018-2019.pdf"><span>Niezbędnik pierwszoklasisty</span></a></li>
+	<li id="menu-item-1151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1151"><a href="http://zse.bialystok.pl/uczniowie/samorzad-uczniowski/"><span>Samorząd Uczniowski</span></a></li>
+	<li id="menu-item-1152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1152"><a href="http://zse.bialystok.pl/uczniowie/sukcesy/"><span>Sukcesy</span></a></li>
+	<li id="menu-item-1153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1153"><a href="http://zse.bialystok.pl/uczniowie/wykaz-podrecznikow/"><span>Wykaz podręczników</span></a></li>
+	<li id="menu-item-1908" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1908"><a target="_blank" href="http://zse.bialystok.pl/wp-content/uploads/2018/09/Wykaz_ZP-1.pdf"><span>Zajęcia pozalekcyjne</span></a></li>
+	<li id="menu-item-1155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1155"><a href="http://zse.bialystok.pl/uczniowie/zajecia-wyrownawcze/"><span>Zajęcia wyrównawcze</span></a></li>
+	<li id="menu-item-1909" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1909"><a href="http://zse.bialystok.pl/uczniowie/ubezpieczenia-nnw-uczniow/"><span>Ubezpieczenia NNW uczniów</span></a></li>
+</ul>
+</li>
+<li id="menu-item-1139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1139"><a href="http://zse.bialystok.pl/rodzice/"><span>Rodzice</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1140"><a href="http://zse.bialystok.pl/rodzice/cyberprzemoc/"><span>Cyberprzemoc</span></a></li>
+	<li id="menu-item-1141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1141"><a href="http://zse.bialystok.pl/rodzice/e-papieros/"><span>E-papieros</span></a></li>
+	<li id="menu-item-1142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1142"><a href="http://zse.bialystok.pl/rodzice/fonoholizm/"><span>Fonoholizm</span></a></li>
+	<li id="menu-item-1143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1143"><a href="http://zse.bialystok.pl/rodzice/nowotwory-glowy-i-szyi/"><span>Nowotwory Głowy i Szyi</span></a></li>
+	<li id="menu-item-1144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1144"><a href="http://zse.bialystok.pl/rodzice/placowki-pomocowe/"><span>Placówki Pomocowe na terenie Białegostoku</span></a></li>
+</ul>
+</li>
+<li id="menu-item-1110" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1110"><a href="http://zse.bialystok.pl/biblioteka/"><span>Biblioteka</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1111"><a href="http://zse.bialystok.pl/biblioteka/biblioteczka-rodzica/"><span>Biblioteczka rodzica</span></a></li>
+	<li id="menu-item-1112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1112"><a href="http://zse.bialystok.pl/biblioteka/bookcrossing/"><span>Bookcrossing</span></a></li>
+	<li id="menu-item-1113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1113"><a href="http://zse.bialystok.pl/biblioteka/filmoteka/"><span>Filmoteka</span></a></li>
+	<li id="menu-item-1220" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1220"><a target="_blank" href="http://biblioteka-zse.dhhost.pl/"><span>Katalog</span></a></li>
+	<li id="menu-item-1115" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-680 current_page_item menu-item-1115"><a href="http://zse.bialystok.pl/biblioteka/lektury/"><span>Lektury</span></a></li>
+	<li id="menu-item-1116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1116"><a href="http://zse.bialystok.pl/biblioteka/najpoczytniejsi-pisarze/"><span>Najpoczytniejsi pisarze</span></a></li>
+	<li id="menu-item-1117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1117"><a href="http://zse.bialystok.pl/biblioteka/nowosci/"><span>Nowości</span></a></li>
+	<li id="menu-item-1118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1118"><a href="http://zse.bialystok.pl/biblioteka/regulaminy/"><span>Regulaminy</span></a></li>
+	<li id="menu-item-2083" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2083"><a href="http://zse.bialystok.pl/wp-content/uploads/2018/09/opisy_bibliograficzne.doc"><span>Opisy biblioteczne</span></a></li>
+</ul>
+</li>
+</ul></nav>
+
+<div id="x-nav-wrap-mobile" class="x-nav-wrap mobile x-collapsed" data-x-toggleable="x-nav-wrap-mobile" data-x-toggle-collapse="1" aria-hidden="true" aria-labelledby="x-btn-navbar">
+  <ul id="menu-menu-glowne-1" class="x-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1109"><a href="http://zse.bialystok.pl/"><span>Strona główna</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1156 tax-item tax-item-2"><a href="http://zse.bialystok.pl/category/aktualnosci/"><span>Aktualności</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1119"><a href="http://zse.bialystok.pl/kalendarium/"><span>Kalendarium</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1120"><a href="http://zse.bialystok.pl/o-szkole/"><span>O szkole</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1127"><a href="http://zse.bialystok.pl/o-szkole/kontakt/"><span>Kontakt</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1124"><a href="http://zse.bialystok.pl/o-szkole/dyrekcja/"><span>Dyrekcja</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1122"><a href="http://zse.bialystok.pl/o-szkole/ckp/"><span>CKP Nr 1</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1123"><a href="http://zse.bialystok.pl/o-szkole/dokumenty/"><span>Dokumenty</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1129"><a href="http://zse.bialystok.pl/o-szkole/patron/"><span>Patron</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1125"><a href="http://zse.bialystok.pl/o-szkole/hymn/"><span>Hymn</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1130"><a href="http://zse.bialystok.pl/o-szkole/rada-rodzicow/"><span>Rada Rodziców</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1126"><a href="http://zse.bialystok.pl/o-szkole/konsultacje/"><span>Konsultacje</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1170"><a href="http://zse.bialystok.pl/o-szkole/rozklad-dzwonkow/"><span>Rozkład dzwonków</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1133"><a href="http://zse.bialystok.pl/rekrutacja/"><span>Rekrutacja</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1866"><a href="http://zse.bialystok.pl/rekrutacja/"><span>Jasny wybór</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1138"><a href="http://zse.bialystok.pl/rekrutacja/technikum-elekryczne/"><span>Technikum Elekryczne</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1134"><a href="http://zse.bialystok.pl/rekrutacja/branzowa-szkola-i-stopnia-nr-1/"><span>Branżowa Szkoła I Stopnia Nr 1</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1137"><a href="http://zse.bialystok.pl/rekrutacja/szkola-policealna/"><span>Szkoła Policealna</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1136"><a href="http://zse.bialystok.pl/rekrutacja/kwalifikacyjny-kurs-zawodowy/"><span>Kwalifikacyjny kurs zawodowy</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1945"><a href="http://zse.bialystok.pl/uczniowie/sukcesy/"><span>Uczniowie</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1147"><a href="http://zse.bialystok.pl/uczniowie/egzaminy-zawodowe/"><span>Egzaminy zawodowe</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1148"><a href="http://zse.bialystok.pl/uczniowie/kwalifikacyjne-kursy-zawodowe/"><span>Kwalifikacyjne kursy zawodowe</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1149"><a href="http://zse.bialystok.pl/uczniowie/matura/"><span>Matura</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1911"><a target="_blank" href="http://zse.bialystok.pl/wp-content/uploads/2018/10/niezbednik-2018-2019.pdf"><span>Niezbędnik pierwszoklasisty</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1151"><a href="http://zse.bialystok.pl/uczniowie/samorzad-uczniowski/"><span>Samorząd Uczniowski</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1152"><a href="http://zse.bialystok.pl/uczniowie/sukcesy/"><span>Sukcesy</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1153"><a href="http://zse.bialystok.pl/uczniowie/wykaz-podrecznikow/"><span>Wykaz podręczników</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1908"><a target="_blank" href="http://zse.bialystok.pl/wp-content/uploads/2018/09/Wykaz_ZP-1.pdf"><span>Zajęcia pozalekcyjne</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1155"><a href="http://zse.bialystok.pl/uczniowie/zajecia-wyrownawcze/"><span>Zajęcia wyrównawcze</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1909"><a href="http://zse.bialystok.pl/uczniowie/ubezpieczenia-nnw-uczniow/"><span>Ubezpieczenia NNW uczniów</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1139"><a href="http://zse.bialystok.pl/rodzice/"><span>Rodzice</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1140"><a href="http://zse.bialystok.pl/rodzice/cyberprzemoc/"><span>Cyberprzemoc</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1141"><a href="http://zse.bialystok.pl/rodzice/e-papieros/"><span>E-papieros</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1142"><a href="http://zse.bialystok.pl/rodzice/fonoholizm/"><span>Fonoholizm</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1143"><a href="http://zse.bialystok.pl/rodzice/nowotwory-glowy-i-szyi/"><span>Nowotwory Głowy i Szyi</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1144"><a href="http://zse.bialystok.pl/rodzice/placowki-pomocowe/"><span>Placówki Pomocowe na terenie Białegostoku</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1110"><a href="http://zse.bialystok.pl/biblioteka/"><span>Biblioteka</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1111"><a href="http://zse.bialystok.pl/biblioteka/biblioteczka-rodzica/"><span>Biblioteczka rodzica</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1112"><a href="http://zse.bialystok.pl/biblioteka/bookcrossing/"><span>Bookcrossing</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1113"><a href="http://zse.bialystok.pl/biblioteka/filmoteka/"><span>Filmoteka</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1220"><a target="_blank" href="http://biblioteka-zse.dhhost.pl/"><span>Katalog</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-680 current_page_item menu-item-1115"><a href="http://zse.bialystok.pl/biblioteka/lektury/"><span>Lektury</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1116"><a href="http://zse.bialystok.pl/biblioteka/najpoczytniejsi-pisarze/"><span>Najpoczytniejsi pisarze</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1117"><a href="http://zse.bialystok.pl/biblioteka/nowosci/"><span>Nowości</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1118"><a href="http://zse.bialystok.pl/biblioteka/regulaminy/"><span>Regulaminy</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2083"><a href="http://zse.bialystok.pl/wp-content/uploads/2018/09/opisy_bibliograficzne.doc"><span>Opisy biblioteczne</span></a></li>
+</ul>
+</li>
+</ul></div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  </header>
+
+    
+  
+    <header class="x-header-landmark">
+      <div class="x-container max width">
+        <div class="x-landmark-breadcrumbs-wrap">
+          <div class="x-landmark">
+
+          
+            <h1 class="h-landmark entry-title"><span>Lektury</span></h1>
+
+          
+          </div>
+
+                                    <div class="x-breadcrumbs-wrap">
+                <div class="x-breadcrumbs"><a href="http://zse.bialystok.pl/" ><span class="home"><i class="x-icon-home" data-x-icon-s="&#xf015;"></i></span></a> <span class="delimiter"><i class="x-icon-angle-right" data-x-icon-s="&#xf105;"></i></span> <a href="http://zse.bialystok.pl/biblioteka/" >Biblioteka</a> <span class="delimiter"><i class="x-icon-angle-right" data-x-icon-s="&#xf105;"></i></span> <a href="http://zse.bialystok.pl/biblioteka/lektury/" class="current" title="You Are Here" >Lektury</a></div>              </div>
+                      
+          
+        </div>
+      </div>
+    </header>
+
+  
+  <div class="x-container max width offset">
+    <div class="x-main full" role="main">
+
+              
+<article id="post-680" class="post-680 page type-page status-publish hentry no-post-thumbnail">
+  <div class="entry-wrap">
+            
+
+
+<div class="entry-content content">
+
+
+  <div class="post_content">
+<p><strong>Wykaz lektur obowiązujących w Zespole Szkół Elektrycznych</strong></p>
+<p>W związku z wejściem w życie Rozporządzenia Ministra Edukacji Narodowej z dnia 29 sierpnia 2008 r. zmieniającego rozporządzenie w sprawie podstawy programowej wychowania przedszkolnego oraz kształcenia ogólnego w poszczególnych typach szkół (Dz.U. nr 159 poz. 992) dyrektor Centrali Komisji Egzaminacyjnej informuje, że na egzaminie maturalnym z języka polskiego od maja 2009 r. obowiązywać będą następujące utwory:</p>
+<p><strong>Na poziomie podstawowym</strong></p>
+<p>1. Literatura polska</p>
+<ul>
+<li>Bogurodzica w kontekście poezji średniowiecznej</li>
+<li>Jan Kochanowski – fraszki, pieśni i treny (wybór)</li>
+<li>Jan Andrzej Morsztyn – wybór wierszy</li>
+<li>Daniel Naborowski – wybór wierszy</li>
+<li>Wacław Potocki – wybór wierszy</li>
+<li>Ignacy Krasicki – bajki, satyry (wybór), Hymn do miłości ojczyzny</li>
+<li>Adam Mickiewicz- Romantyczność</li>
+<li>Adam Mickiewicz- Pan Tadeusz</li>
+<li>Adam Mickiewicz- Dziady cz.III</li>
+<li>Adam Mickiewicz – Konrad Wallenrod</li>
+<li>Juliusz Słowacki Kordian: akt I, akt II, akt III, sc. 5 i 6</li>
+<li>Zygmunt Krasiński Nie Boska komedia: część I, część III (scena w obozie rewolucji), część IV (scena w obozie arystokracji i scena finałowa)</li>
+<li>Adam Mickiewicz- wybór wierszy</li>
+<li>Juliusz Słowacki- wybór wierszy</li>
+<li>Cyprian Kamil Norwid- wybór wierszy</li>
+<li>Bolesław Prus- Lalka</li>
+<li>Eliza Orzeszkowa- Nad Niemnem- fragmenty z tomu III: rozmowa Andrzejowej Korczyńskiej z synem, rozmowa Benedykta Korczyńskiego z synem</li>
+<li>Eliza Orzeszkowa- Gloria victis</li>
+<li>Maria Konopnicka- Mendel Gdański</li>
+<li>Bolesław Prus- Kamizelka</li>
+<li>Henryk Sienkiewicz- Potop</li>
+<li>Kazimierz Przerwa-Tetmajer- wybór wierszy</li>
+<li>Jan Kasprowicz- wybór wierszy</li>
+<li>Leopold Staff- wybór wierszy z różnych epok</li>
+<li>Stanisław Wyspiański- Wesele</li>
+<li>Władysław Stanisław Reymont- Chłopi (t. I)</li>
+<li>Stefan Żeromski- Ludzie bezdomni</li>
+<li>Stefan Żeromski- Przedwiośnie</li>
+<li>Witold Gombrowicz- Ferdydurke- rozdz. II, III, VI, VII, VIII, IX, X, XII, XIV</li>
+<li>Zofia Nałkowska- Granica</li>
+<li>Tadeusz Borowski- Pożegnanie z Marią (Pożegnanie z Maria, U nas, w Auschwitzu…, Proszę państwa do gazu, Bitwa pod Grunwaldem)</li>
+<li>Gustaw Herling- Gruziński- Inny świat</li>
+<li>Bolesław Leśmian- wybór wierszy</li>
+<li>Julian Tuwim- wybór wierszy</li>
+<li>Maria Pawlikowska-Jasnorzewska- wybór wierszy</li>
+<li>Czesław Miłosz- wybór wierszy</li>
+<li>Krzysztof Kamil Baczyński- wybór wierszy</li>
+<li>Tadeusz Różewicz- wybór wierszy</li>
+<li>Zbigniew Herbert- wybór wierszy</li>
+<li>Miron Białoszewski- wybór wierszy</li>
+<li>Wisława Szymborska- wybór wierszy</li>
+<li>Stanisław Barańczak- wybór wierszy</li>
+<li>Jan Twardowski- wybór wierszy</li>
+<li>Sławomir Mrożek- Tango</li>
+<li>Hanna Krall- Zdążyć przed Panem Bogiem</li>
+</ul>
+<p>Uwaga: wymagana jest także znajomość kontekstów biblijnych, antycznych i innych.</p>
+<p>2. Literatura powszechna</p>
+<ul>
+<li>Sofokles- Król Edyp</li>
+<li>Horacy- wybór wierszy</li>
+<li>William Szekspir- Makbet</li>
+<li>Molier- Świętoszek</li>
+<li>Jan Wolfgang Goethe- Cierpienia młodego Wertera</li>
+<li>Fiodor Dostojewski- Zbrodnia i Kara</li>
+<li>Joseph Conrad- Jądro Ciemności</li>
+<li>Albert Camus- Dżuma</li>
+</ul>
+<p><strong>Na poziomie rozszerzonym</strong><br />
+jak na poziomie podstawowym, a <strong>ponadto</strong>:</p>
+<p>1. Literaura polska</p>
+<ul>
+<li>Jan Kochanowski- Treny</li>
+<li>Juliusz Słowacki- Kordian</li>
+<li>Witold Gombrowicz- Trans-Atlantyk</li>
+<li>Maria Kuncewiczowa- Cudzoziemka</li>
+<li>Stanisław Ignacy Witkiewicz- Szewcy</li>
+</ul>
+<p>2. Literatura powszechna</p>
+<ul>
+<li>Dante- Boska Komedia- fragmenty Piekła</li>
+<li>Jan Wolfgang Goethe- Faust- część I: fragmenty sceny w pracowni (rozmyślania Fausta o sobie i swoim życiu, rozmowa z Mefistofelesem)</li>
+<li>Franz Kafka- Proces</li>
+<li>Michaił Bułhakow- Mistrz i Małgorzata</li>
+</ul>
+</div>
+  
+
+</div>
+
+
+  </div>
+</article>        
+      
+    </div>
+  </div>
+
+
+
+  
+
+  <footer class="x-colophon top">
+    <div class="x-container max width">
+
+      <div class="x-column x-md x-1-4"><div id="text-2" class="widget widget_text"><h4 class="h-widget">Adres</h4>			<div class="textwidget"><h6>Zespół Szkół Elektrycznych im. prof. Janusza Groszkowskiego w Białymstoku</h6>
+<p>al. 1000-lecia Państwa Polskiego 14<br />
+15-111 Białystok</p>
+</div>
+		</div></div><div class="x-column x-md x-1-4"><div id="nav_menu-2" class="widget widget_nav_menu"><h4 class="h-widget">Na skróty</h4><div class="menu-na-skroty-1-container"><ul id="menu-na-skroty-1" class="menu"><li id="menu-item-1006" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1006"><a target="_blank" href="http://portal.office.com/">Office 365</a></li>
+<li id="menu-item-1007" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1007"><a target="_blank" href="http://www.zsemoodle.bialystok.pl/login/index.php">Platforma moodle</a></li>
+<li id="menu-item-1008" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1008"><a target="_blank" href="https://synergia.librus.pl/">E-dziennik</a></li>
+</ul></div></div></div><div class="x-column x-md x-1-4"><div id="nav_menu-3" class="widget widget_nav_menu"><h4 class="h-widget"> &nbsp;</h4><div class="menu-na-skroty-2-container"><ul id="menu-na-skroty-2" class="menu"><li id="menu-item-1084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1084"><a href="http://zse.bialystok.pl/polecane-strony/">Polecane strony</a></li>
+<li id="menu-item-1085" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1085"><a href="http://zse.bialystok.pl/projekty/">Projekty</a></li>
+</ul></div></div></div><div class="x-column x-md x-1-4 last"><div id="media_image-2" class="widget widget_media_image"><h4 class="h-widget"> </h4><a href="http://zse.bialystok.pl/perspektywy-2018/"><img width="140" height="133" src="http://zse.bialystok.pl/wp-content/uploads/2018/02/technika-zlote-2018.png" class="image wp-image-796  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></a></div></div>
+    </div>
+  </footer>
+
+
+  
+    <footer class="x-colophon bottom" role="contentinfo">
+      <div class="x-container max width">
+
+        
+                  
+<ul id="menu-menu-glowne-2" class="x-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1109"><a href="http://zse.bialystok.pl/">Strona główna</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1156 tax-item tax-item-2"><a href="http://zse.bialystok.pl/category/aktualnosci/">Aktualności</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1119"><a href="http://zse.bialystok.pl/kalendarium/">Kalendarium</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1120"><a href="http://zse.bialystok.pl/o-szkole/">O szkole</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1133"><a href="http://zse.bialystok.pl/rekrutacja/">Rekrutacja</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1945"><a href="http://zse.bialystok.pl/uczniowie/sukcesy/">Uczniowie</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1139"><a href="http://zse.bialystok.pl/rodzice/">Rodzice</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1110"><a href="http://zse.bialystok.pl/biblioteka/">Biblioteka</a></li>
+</ul>        
+                  <div class="x-colophon-content">
+            <p>© Zespół Szkół Elektrycznych im. prof. Janusza Groszkowskiego w Białymstoku<br>2018</p>
+
+<div id="youtube-box"><a href="https://www.youtube.com/user/elektryktv" target="_blank" title="Kanał YouTube  ElektrykTV"><i class="x-icon x-icon-youtube" style="text-align: center; color: hsl(0, 0%, 100%); font-size: 20px; background-color: hsl(0, 100%, 50%); width: 40px; height: 40px; line-height: 40px;" data-x-icon-b="" aria-hidden="true"></i></a></div>
+
+<div id="facebook-box"><a href="https://www.facebook.com/zsebialystok/" target="_blank" title="Zespół Szkół Elektrycznych na Facebooku"><i class="fab fa-facebook-square" style="text-align: center; color: hsl(0, 0%, 100%); font-size: 20px; background-color:#4267b2; width: 40px; height: 40px; line-height: 40px;" data-x-icon-b="" aria-hidden="true"></i></a></div>          </div>
+        
+      </div>
+    </footer>
+
+  
+
+    
+    </div> <!-- END .x-site -->
+
+    
+  </div> <!-- END .x-root -->
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/zse.bialystok.pl\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Potwierd\u017a, \u017ce nie jeste\u015b robotem."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://zse.bialystok.pl/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.4'></script>
+<script type='text/javascript' src='http://zse.bialystok.pl/wp-content/plugins/responsive-lightbox/assets/nivo/nivo-lightbox.min.js?ver=2.0.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rlArgs = {"script":"nivo","selector":"lightbox","customEvents":"","activeGalleries":"1","effect":"fade","clickOverlayToClose":"1","keyboardNav":"1","errorMessage":"The requested content cannot be loaded. Please try again later.","woocommerce_gallery":"0","ajaxurl":"http:\/\/zse.bialystok.pl\/wp-admin\/admin-ajax.php","nonce":"e0c1d3d80e"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://zse.bialystok.pl/wp-content/plugins/responsive-lightbox/js/front.js?ver=2.0.5'></script>
+<script type='text/javascript' src='http://zse.bialystok.pl/wp-content/plugins/cornerstone/assets/dist/js/site/cs-body.js?ver=3.2.5'></script>
+<script type='text/javascript' src='http://zse.bialystok.pl/wp-content/themes/x/framework/dist/js/site/x.js?ver=6.2.5'></script>
+<script type='text/javascript' src='http://zse.bialystok.pl/wp-includes/js/comment-reply.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='http://zse.bialystok.pl/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+
+</body>
+</html>
